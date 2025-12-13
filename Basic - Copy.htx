@@ -67,10 +67,10 @@ z2= debug/test header to show column sizes when column content is too little to 
        Helvetica"><img src="Current\WindDirection.gif" alt="Wind Direction Arrow" height="192" width="192"><br><!-- native image size is 192x192 --><d2><strong><font color="MidnightBlue">
        <!--wind10Avg--></span></strong></d2><l3>&nbsp;</l3><l2><strong>MPH</strong></l2></font></td>
 
- <tr bgcolor="#FFF899">
+ 
    <td> colspan="7" bordercolor="#000000" style="white-space:nowrap; text-align:center; border: solid rgb(0,0,0)"><font face="verdana, Arial, 
-       Helvetica"><t1><l3><strong>Barometer:&nbsp;&nbsp;<!--barometer-->&quot&nbsp;&&nbsp;<!--BarTrend-->&nbsp;@ <!--Time-->m</strong></l3></font></td></td>
-  </tr>
+       Helvetica"><strong>Barometer:&nbsp;&nbsp;<!--barometer-->&quot&nbsp;&&nbsp;<!--BarTrend-->&nbsp;@ <!--Time-->m</strong><br></font></td></td>
+
 
    <td colspan="7" bordercolor="#000000" style="white-space:nowrap; text-align:center; border: solid rgb(0,0,0)"><font face="verdana, Arial, 
        Helvetica"><t1><strong><!--outsideTemp-->&deg;</strong></t1></font></td>
