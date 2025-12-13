@@ -66,15 +66,8 @@ z2= debug/test header to show column sizes when column content is too little to 
    <td colspan="2" bordercolor="#000000" style="width:199px; padding-top:0px; text-align:center; vertical-align:top; border: solid rgb(0,0,0)"><font face="verdana, Arial, 
        Helvetica"><img src="Current\WindDirection.gif" alt="Wind Direction Arrow" height="192" width="192"><br><!-- native image size is 192x192 --><d2><strong><font color="MidnightBlue">
        <!--wind10Avg--></span></strong></d2><l3>&nbsp;</l3><l2><strong>MPH</strong></l2></font></td>
-
    <td colspan="7" bordercolor="#000000" style="white-space:nowrap; text-align:center; border: solid rgb(0,0,0)"><font face="verdana, Arial, 
-       Helvetica"><12><strong>Barometer:&nbsp;&nbsp;<!--barometer-->&quot&nbsp;&&nbsp;<!--BarTrend-->&nbsp;at<!--Time-->m</strong> <br> <t1><strong><!--outsideTemp-->&deg;</strong></12></font></td></td>
-
-<!--
-   <td colspan="7" bordercolor="#000000" style="white-space:nowrap; text-align:center; border: solid rgb(0,0,0)"><font face="verdana, Arial, 
-       Helvetica"><t1><strong><!--outsideTemp-->&deg;</strong></t1></font></td>
--->
-
+       Helvetica"><12><strong>Barometer:&nbsp;&nbsp;<!--barometer-->&quot&nbsp;&&nbsp;<!--BarTrend-->&nbsp;at<!--Time-->m</strong></12> <br> <t1><strong><!--outsideTemp-->&deg;</strong></t1></font></td></td>
  </tr>
  <tr bgcolor="#FFF899">
    <td colspan="1" style="text-align:right; border-right: none; border-left: solid rgb(0,0,0); border-top: solid rgb(0,0,0); border-bottom: solid rgb(0,0,0)">
