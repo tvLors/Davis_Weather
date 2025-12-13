@@ -25,7 +25,7 @@ d1= Data values, except wind speed & temp
 d2= Wind Speed value
 l1= Label: RainTotals
 l2= Labels: Wind-Chill-Humidity-Heat
-l3= Report Time & Date and Barometer along top  (no longer used)
+l3= {former} Report Time & Date and Barometer along top
 z1= dummy header to size columns; width within a colspan sometimes doesn't work right
 z2= debug/test header to show column sizes when column content is too little to exceed specified width (normally REM'd out)
 -->
@@ -100,6 +100,7 @@ z2= debug/test header to show column sizes when column content is too little to 
        Arial, Helvetica"><l3><strong>Barometer:&nbsp;&nbsp;<!--barometer-->&quot&nbsp;&&nbsp;<!--BarTrend--></strong><l3></font></td>
  </tr>
 -->
+
 </table>
 </BODY>
 </HTML>
