@@ -68,7 +68,7 @@ z2= debug/test header to show column sizes when column content is too little to 
        <!--wind10Avg--></span></strong></d2><l3>&nbsp;</l3><l2><strong>MPH</strong></l2></font></td>
 
    <td colspan="7" bordercolor="#000000" style="white-space:nowrap; text-align:center; border: solid rgb(0,0,0)"><font face="verdana, Arial, 
-       Helvetica"><strong>Barometer:&nbsp;&nbsp;<!--barometer-->&quot&nbsp;&&nbsp;<!--BarTrend-->&nbsp;at<!--Time-->m</strong> <br> <t1><strong><!--outsideTemp-->&deg;</strong></t1></font></td></td>
+       Helvetica"><12><strong>Barometer:&nbsp;&nbsp;<!--barometer-->&quot&nbsp;&&nbsp;<!--BarTrend-->&nbsp;at<!--Time-->m</strong> <br> <t1><strong><!--outsideTemp-->&deg;</strong></12></font></td></td>
 
 <!--
    <td colspan="7" bordercolor="#000000" style="white-space:nowrap; text-align:center; border: solid rgb(0,0,0)"><font face="verdana, Arial, 
