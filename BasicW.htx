@@ -43,7 +43,7 @@ z1= dummy header to size columns; width within a colspan sometimes doesn't work 
 
  <tr bgcolor="#FFF899">
    <td colspan="1" bordercolor="#000000" style="width:200px; padding-top:0px; text-align:center; vertical-align:top; border: solid rgb(0,0,0)"><font face="verdana, Arial, 
-       Helvetica">&nbsp;<img style="width:128px; max-height=100%" src="Daily/WindDirection.gif" alt="Wind Direction Arrow"/>&nbsp;<br><d1><strong><font
+       Helvetica">&nbsp;<img style="width:128px; max-height=100%" src="Current/WindDirection.gif" alt="Wind Direction Arrow"/>&nbsp;<br><d1><strong><font
        color="Brown"><!--wind10Avg--></d1><l1>&nbsp;MPH</strong></l1>&nbsp;</font></td>
    <td colspan="3"bordercolor="#000000" style="width:586px; white-space:nowrap; text-align:center; border: solid rgb(0,0,0)"><font face="verdana, Arial, 
        Helvetica"><t1><strong><!--outsideTemp-->&deg;</strong></t1></font></td>
