@@ -25,7 +25,7 @@ if %ERRORLEVEL% EQU 0 (
     echo Changes detected, pushing to GitHub...
 
     REM If _BreezeOK.txt exists then it's OK to leave Back Porch Door open,
-           so use Basic_BreezeOK.htm instead
+    REM    so use Basic_BreezeOK.htm instead
     IF EXIST "D:/Users/Ginny/Documents/GitHub/Davis_Weather/_BreezeOK.txt" Copy /y "D:/Users/Ginny/Documents/GitHub/Davis_Weather/BasicBreezeOK.htm" "D:/Users/Ginny/Documents/GitHub/Davis_Weather/Basic.htm"
     timeout /t 3 /nobreak
 
