@@ -30,8 +30,9 @@ if %ERRORLEVEL% EQU 0 (
     timeout /t 3 /nobreak
 
     REM Push to GitHub
-    git push origin main
-    
+    REM git push origin main
+    git push -f origin main
+
     if %ERRORLEVEL% EQU 0 (
         echo Successfully pushed to GitHub!
     ) else (
