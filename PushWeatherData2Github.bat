@@ -9,6 +9,9 @@ REM ============================================================
 REM Change to your GitHub repository directory
 cd /d "D:\Users\Ginny\Documents\GitHub\Davis_Weather"
 
+REM Romove Lock on Github operation if it [wrongfully] still exists
+del D:\Users\Ginny\Documents\GitHub\Davis_Weather\.git\indexlock /F
+
 REM Optional: Print current time for logging
 echo ================================================
 echo Weather Data Update: %date% %time%
