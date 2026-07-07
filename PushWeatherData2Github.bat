@@ -22,7 +22,7 @@ echo ================================================
     timeout /t 1 /nobreak
 
 REM clean up the .git\objects directory
- git gc --prune=now
+rem git gc --prune=now
 
 REM Add all files in the directory
 git add *
