@@ -21,6 +21,9 @@ echo ================================================
     IF EXIST "D:/Users/Ginny/Documents/GitHub/Davis_Weather/_BreezeOK.txt" Copy /y "D:/Users/Ginny/Documents/GitHub/Davis_Weather/BasicBreezeOK.htm" "D:/Users/Ginny/Documents/GitHub/Davis_Weather/Basic.htm"
     timeout /t 1 /nobreak
 
+REM clean up the .git\objects directory
+git gc --prune=now
+
 REM Add all files in the directory
 git add *
 
